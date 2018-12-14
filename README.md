@@ -9,7 +9,7 @@
     ii) https://github.com/philipperemy/timit
     
 3) Implementation references:  
-    i)   http://scikit-learn.org/stable/index.html  
+    i)    http://scikit-learn.org/stable/index.html  
     ii)  http://scikit-learn.org/stable/modules/generated/sklearn.mixture.GaussianMixture.html  
     iii) http://www.pitt.edu/~naraehan/python2/pickling.html  
     iv)  https://github.com/belambert/asr-evaluation  
